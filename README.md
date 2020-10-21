@@ -7,11 +7,11 @@ This project is related to my goal of:
 
 I use the drive letter N:, but anything else is fine.
 
-Please feel free to open issues or PRs up update this document.  I'll document my setup as best I can
+Please feel free to open issues or PRs up update this document.  I'll document my setup as best I can.
 
 
 # Sharing using another windows PC (untested)
-* Create new share for eXoDOS *only*
+* Create new share for the eXoDOS root *only*.  it should not be a subfolder of something else.
 * You must share the folder containing the folder where LaunchBox is
 * This share must be public and allow all permissions for the "Everyone" security group
 
